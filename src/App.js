@@ -12,7 +12,7 @@ export default function App() {
           
         , is{" "}
           <a
-            href="https://github.com/Nalondwa/week-5-react-app"
+            href="https://github.com/Nalondwa/final-react-weather-react-app"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://gentle-torte-87304a.netlify.app/"
+            href="https://mellow-sopapillas-6f5f27.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
